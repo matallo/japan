@@ -23,7 +23,7 @@
     "express-session": "1.14.1",
     "html": "latest",
     "method-override": "2.3.6",
-    "morgan": "1.7.0",
+    "morgan": "1.10.0",
     "request": "latest",
     "rss": "1.2.1",
     "sanitize-html": "latest",
